@@ -21,7 +21,6 @@ Example use cases:
 - The system detects abnormal readings
 - Alerts are generated and shown on the monitoring dashboard
 
-
 ---
 
 ## 2. Functional Modules
@@ -58,7 +57,6 @@ Stores system logs and monitoring history.
 ### Authentication and Authorization
 Provides basic role-based access control for clinicians and administrators.
 
-
 ---
 
 ## 3. Orchestration Roles
@@ -80,7 +78,6 @@ Performs code and architecture review to ensure consistency and quality.
 Tool Runner  
 Interacts with the repository, executes commands, and verifies project state.
 
-
 ---
 
 ## 4. Data Flow and Control Flow
@@ -95,7 +92,6 @@ The general system workflow is as follows:
 6. If abnormal values are detected, alerts are created and stored.
 7. The frontend dashboard retrieves patient status and alert information through APIs.
 8. Clinicians monitor the system and respond to alerts.
-
 
 ---
 
@@ -115,7 +111,6 @@ The development process is expected to proceed through multiple stages:
 8. System review, refactoring, and testing
 
 Each stage will be completed step-by-step with intermediate verification.
-
 
 ---
 
