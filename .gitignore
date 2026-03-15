@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# environment
+.env
+.env.*
+
+# build
+dist/
+build/
+
+# logs
+*.log
+
+# coverage
+coverage/
+
+# system
+.DS_Store
